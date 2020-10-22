@@ -1,0 +1,9 @@
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\bin\Debug\netcoreapp3.1\WeatherForecastModels.deps.json
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\bin\Debug\netcoreapp3.1\WeatherForecastModels.dll
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\bin\Debug\netcoreapp3.1\WeatherForecastModels.pdb
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\obj\Debug\netcoreapp3.1\WeatherForecastModels.csprojAssemblyReference.cache
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\obj\Debug\netcoreapp3.1\WeatherForecastModels.AssemblyInfoInputs.cache
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\obj\Debug\netcoreapp3.1\WeatherForecastModels.AssemblyInfo.cs
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\obj\Debug\netcoreapp3.1\WeatherForecastModels.csproj.CoreCompileInputs.cache
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\obj\Debug\netcoreapp3.1\WeatherForecastModels.dll
+C:\Users\skattamuri\source\repos\WeatherAppApi\WeatherForecastModels\obj\Debug\netcoreapp3.1\WeatherForecastModels.pdb

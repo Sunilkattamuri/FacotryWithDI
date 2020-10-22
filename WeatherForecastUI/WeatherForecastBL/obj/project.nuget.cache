@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "22gZHlSCquUN7WzJXxzTAfwwysmyPNQvJleqxcii/McQV3+/kkKVcl9MO/xQDC3FuWCnNou+Qjb8p/LB0aHFiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skattamuri\\source\\repos\\WeatherForecastUI\\WeatherForecastBL\\WeatherForecastBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skattamuri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

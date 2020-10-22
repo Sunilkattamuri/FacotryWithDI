@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherForecastBL/1.0.0": {
+        "dependencies": {
+          "WeatherForecast.Framework": "1.0.0",
+          "WeatherForecast.Models": "1.0.0",
+          "WeatherForecastDAL": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecastBL.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "WeatherForecast.Framework/1.0.0": {
+        "runtime": {
+          "WeatherForecast.Framework.dll": {}
+        }
+      },
+      "WeatherForecast.Models/1.0.0": {
+        "runtime": {
+          "WeatherForecast.Models.dll": {}
+        }
+      },
+      "WeatherForecastDAL/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "WeatherForecast.Framework": "1.0.0",
+          "WeatherForecast.Models": "1.0.0"
+        },
+        "runtime": {
+          "WeatherForecastDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherForecastBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "WeatherForecast.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherForecast.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherForecastDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

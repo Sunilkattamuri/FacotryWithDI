@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model PollutionViewModel
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+<div class="card">
+    <div class="card-header">Pollution Details</div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-3">@Html.LabelFor(x=>x.Latitude)</div>
+            <div class="col-md-3"> @Html.TextBoxFor(x => x.Latitude, new { type = "number" })</div>
+        </div>
+        <div class="row mt-1">
+            <div class="col-md-3">@Html.LabelFor(x=>x.Longitude)</div>
+            <div class="col-md-3"> @Html.TextBoxFor(x => x.Longitude, new { type = "number" })</div>
+        </div>
+        <div class="row mt-1">
+            <div class="col-md-3">@Html.LabelFor(x=>x.DateTime)</div>
+            <div class="col-md-3"> @Html.TextBoxFor(x => x.DateTime, new { type = "date" })</div>
+        </div>
+
+        <div class="row mt-1">
+            <div class="col-md-3"></div>
+
+            <div class="col-md-3">
+                <input type="button" value="Submit" id="submit"  />
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="card" id="pollDetailsCard" style="display:none">
+    <div class="card-header">Pollution Details</div>
+    <div class="card-body" id="pollDetails">
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(submit).click(function () {
+       
+        $.ajax({
+            type: "Get",
+            url: "Home/GetPollutionData?latitude=" + $('#Latitude').val()
+                + "&longitude=" + $('#Longitude').val() +"&dateTime="+$('#DateTime').val(),
+            success: function (res) {
+                console.log(JSON.parse(res.data));
+                res = JSON.parse(res.data)
+                if (res.Cod == 200) {
+                    var gridStart = "<div>"
+                    for (var data in res.pollutiondetails) {
+                        $('#pollDetailsCard').show();
+                        var row = "<div class='row'> <div class='col-md-3'>" + res.pollutiondetails[data].Precision +
+                            "</div> <div class='col-md-3'>" + res.pollutiondetails[data].Pressure + "<div><div class='col-md-3'" +
+                            res.pollutiondetails[data].Value + "</div></div>"
+                      gridStart =  gridStart + row;
+                    }
+                    gridStart= gridStart+"</div>"
+                    $('#pollDetails').append(gridStart);
+                } else {
+                    //console.log(res.Message);
+                    alert(res.Message);
+                }
+            },
+            error: function () {
+
+            }
+        })
+    })
+</script>

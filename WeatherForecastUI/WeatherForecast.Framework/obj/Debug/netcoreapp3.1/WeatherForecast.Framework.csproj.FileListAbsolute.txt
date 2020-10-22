@@ -1,0 +1,9 @@
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\obj\Debug\netcoreapp3.1\WeatherForecast.Framework.csprojAssemblyReference.cache
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\obj\Debug\netcoreapp3.1\WeatherForecast.Framework.AssemblyInfoInputs.cache
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\obj\Debug\netcoreapp3.1\WeatherForecast.Framework.AssemblyInfo.cs
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\obj\Debug\netcoreapp3.1\WeatherForecast.Framework.csproj.CoreCompileInputs.cache
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\bin\Debug\netcoreapp3.1\WeatherForecast.Framework.deps.json
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\bin\Debug\netcoreapp3.1\WeatherForecast.Framework.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\bin\Debug\netcoreapp3.1\WeatherForecast.Framework.pdb
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\obj\Debug\netcoreapp3.1\WeatherForecast.Framework.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecast.Framework\obj\Debug\netcoreapp3.1\WeatherForecast.Framework.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherForecast.Framework\WeatherForecast.Framework.csproj" />
+    <ProjectReference Include="..\WeatherForecast.Models\WeatherForecast.Models.csproj" />
+    <ProjectReference Include="..\WeatherForecastDAL\WeatherForecastDAL.csproj" />
+  </ItemGroup>
+
+</Project>

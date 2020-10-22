@@ -1,0 +1,16 @@
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.csprojAssemblyReference.cache
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.AssemblyInfoInputs.cache
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.AssemblyInfo.cs
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.csproj.CoreCompileInputs.cache
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecastBL.deps.json
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecastBL.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecastBL.pdb
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecast.Framework.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecast.Models.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecastDAL.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecast.Framework.pdb
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecast.Models.pdb
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\bin\Debug\netcoreapp3.1\WeatherForecastDAL.pdb
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.csproj.CopyComplete
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.dll
+C:\Users\skattamuri\source\repos\WeatherForecastUI\WeatherForecastBL\obj\Debug\netcoreapp3.1\WeatherForecastBL.pdb
